@@ -1,0 +1,20 @@
+{
+  selector: undefined,
+  inputs: undefined,
+  outputs: undefined,
+  host: undefined,
+  exportAs: undefined,
+  moduleId: undefined,
+  providers: undefined,
+  viewProviders: undefined,
+  changeDetection: ChangeDetectionStrategy.Default,
+  queries: undefined,
+  templateUrl: undefined,
+  template: undefined,
+  styleUrls: undefined,
+  styles: undefined,
+  animations: undefined,
+  encapsulation: undefined,
+  interpolation: undefined,
+  entryComponents: undefined
+}
